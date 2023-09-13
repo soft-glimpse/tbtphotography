@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar-style{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 8px;
+    left: 30px;
+}
+
+.lux {
+    margin-bottom: 4px;
+}
+.arrow-down {
+    font-size: 50px;
+    margin-bottom: 50px;
+    transition: 0.4s;
+    color: #ffffff;
+}
+.arrow-down:hover {
+    transform: translateY(5px);
+    transition: 0.4s;
+    color: #ffffff;
+}
+
+
+
+.service-gallery-img{
+    width: 100%;
+}
+
+.row {
+    --bs-gutter-x: 4px !important;
+}
+.service-gallery-img-landscape{
+    margin-top: 4px;
+    width: 100%;
+}
+
+.about-para{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+.page-headings{
+    font-family: 'Crimson Text', serif;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+.text-container {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+
+.contact-heading{
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 90px;
+  }
