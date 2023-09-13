@@ -23,7 +23,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
+html, body {
   font-family: var(--font-default);
   color: var(--color-default);
   overflow-x: hidden;
