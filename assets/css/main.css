@@ -69,6 +69,7 @@ h6 {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 16px;
   transition-duration: 0.2s;
+  color: white;
 }
 .bunny-button:hover{
   height: 50px;
@@ -85,6 +86,7 @@ h6 {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 16px;
   transition-duration: 0.2s;
+  color: white;
 }
 
 /*--------------------------------------------------------------
